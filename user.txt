@@ -1,0 +1,18 @@
+
+Email: bangla@gmail.com , Type:  Customer  ,  First Name: Ban , Last Name: Gla , Password: 1q2w3e , Phone: 4334565464
+Email: so@gmail.com , Type:  Customer  ,  First Name: S , Last Name: O , Password: 12345 , Phone: 1242348345
+Email: redoan@gmail.com , Type:  Admin  ,  First Name: Redoanur , Last Name: Rahman , Password: 523262 , Phone: 01777523262
+Email: ahmedshajid74@gmail.com , Type:  Customer  ,  First Name: Ahmed , Last Name: shajid , Password: 12345 , Phone: 01963566645
+Email: aa@gmail.com , Type:  Customer  ,  First Name: aa , Last Name: bb , Password: 12345 , Phone: 9182421349042
+Email: abdul@gmail.com , Type:  Customer  ,  First Name: Abdul , Last Name: Alim , Password: 12345 , Phone: 01923297474
+Email: shohan@gmail.com , Type:  Manager  ,  First Name: Md , Last Name: Shohan , Password: 12345 , Phone: 01923297474
+Email: mohimin@gmail.com , Type:  Productmanager  ,  First Name: Mohimin , Last Name: Shikder , Password: 12345 , Phone: 01923297474
+Email: sabbir@gmail.com , Type:  Customermaneger  ,  First Name: Md , Last Name: Sabbir , Password: 12345 , Phone: 01923297474
+Email: ma@gmail.com , Type:  Customer  ,  First Name: sa , Last Name: ga , Password: pa , Phone: 12
+Email: e@gmail.com , Type:  Customer  ,  First Name: ee , Last Name: tt , Password: 123 , Phone: 324
+Email: r@gmail.com , Type:  Customer  ,  First Name: mohiminer , Last Name: bou , Password: roja , Phone: 01531736494
+Email: a@gmail.com , Type:  Customer  ,  First Name: a , Last Name: b , Password: 12345 , Phone: 01746572388
+Email: shimul@gmail.com , Type:  Customer  ,  First Name: Shi , Last Name: mul , Password: 12345 , Phone: 01994096153
+Email: w@gmail.com , Type:  Customer  ,  First Name: w , Last Name: f , Password: 123 , Phone: 923485929584
+Email: wet@gmail.com , Type:  Customer  ,  First Name: w , Last Name: et , Password: 1234 , Phone: 246587365982
+Email: j109@gmail.com , Type:  Customer  ,  First Name: j , Last Name: 109 , Password: 109191 , Phone: 01767422773
